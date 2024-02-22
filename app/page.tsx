@@ -4,6 +4,6 @@ export default function Home() {
 
   console.log("Hello World");
   return (
-  <h1>Hello </h1>
+  <h1>Hello Manoj</h1>
   );
 }
